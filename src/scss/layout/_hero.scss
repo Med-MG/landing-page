@@ -60,14 +60,16 @@
 	box-shadow: 48px 16px 48px rgba(color(bg, 1i), .12);
 	border-radius: 4px;
 	transform: perspective(1000px) rotateY(16deg) rotateX(2deg) rotateZ(-7deg) scaleY(.95) translatex(2%);
-	
+	width: 27rem;
 	.lights-off & {
 		box-shadow: 48px 16px 48px rgba(darken(color(bg, 1i), 35%), .2);
 	}
 }
 
 @include media( '<medium' ) {
-
+	.hero{
+		padding-bottom: 44px;
+	}
 	.hero-cta {
 
 		> * {
@@ -82,12 +84,22 @@
 	.lights-toggle {
 		justify-content: center;
 	}
+
+	.hero-copy{
+		margin-top: 4rem;
+		order: 2;
+	}
+
+	.hero-inner{
+		display: flex;
+		flex-direction: column;
+	}
 }
 
 @include media( '>medium' ) {
 
     .hero {
-		text-align: left;
+		text-align: right;
         padding-top: 88px;
 		padding-bottom: 120px;
     }
