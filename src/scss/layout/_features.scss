@@ -39,6 +39,7 @@
 .feature-icon {
 	display: inline-flex;
 	margin-bottom: 16px;
+	order: 2;
 
 	img,
 	svg {
@@ -105,7 +106,7 @@
 	.feature-icon {
 		display: block;
 		margin-top: 8px;
-		margin-right: 32px;
+		margin-left: 32px;
 		margin-bottom: 0;
 	}
 
