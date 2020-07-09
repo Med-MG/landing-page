@@ -455,7 +455,7 @@
 			echo 'show-content';
 		} ?>">
                 <div class="popup__right">
-					<a href="#section-tours" class="popup__close">&times;</a>
+					<a href="./" class="popup__close">&times;</a>
 						<div class="success-checkmark">
 						<div class="check-icon">
 							<span class="icon-line line-tip"></span>
@@ -464,11 +464,12 @@
 							<div class="icon-fix"></div>
 						</div>
 						</div>
-						<h3 class="heading-tertiary">شكرا على تقتكم</h3>
+						<h3 class="heading-tertiary">شكرا جزيلاً على ثقتكم</h3>
 						<p class="popup__text">
-							لقد تم تأكيد طلبكم بنجاح شكرا علي طلبكم		
+						لقد تم تسجيل طلبكم سنتصل بك هاتفيا من أجل تأكيده
+						سنقوم بإرسال طلبكم إلى العنوان الذي قمت بتعبئتة	<br>
 						</p>
-						<a class="button button-primary button-popup" href="./">الرئيسية</a>
+						<a class="button button-primary button-popup" href="./">استمر في التسوق</a>
                     <!-- <h2 class="heading-secondary u-margin-bottom-small">Start booking now</h2>
                     <h3 class="heading-tertiary u-margin-bottom-small">Important &ndash; Please read these terms before booking</h3>
                     <p class="popup__text">
