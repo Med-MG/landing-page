@@ -6,7 +6,8 @@
 		<meta charset="utf-8" />
 		<meta http-equiv="X-UA-Compatible" content="IE=edge" />
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
-		<title>Switch Template</title>
+		<link rel="shortcut icon" href="dist/images/mahali_size-logo.png" />
+		<title>Mini clim mahalionline</title>
 		<link
 			href="https://fonts.googleapis.com/css?family=Heebo:400,700|IBM+Plex+Sans:600"
 			rel="stylesheet"
