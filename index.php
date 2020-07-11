@@ -29,7 +29,7 @@
 								<a href="#">
 									<img
 										class="header-logo-image asset-light"
-										src="dist/images/logo-light.svg"
+										src="dist/images/mahali_size-logo.png"
 										alt="Logo"
 									/>
 									<img
@@ -354,7 +354,7 @@
 							<a href="#">
 								<img
 									class="asset-light"
-									src="dist/images/logo-light.svg"
+									src="dist/images/mahali_size-logo.png"
 									alt="Logo"
 								/>
 								<img
@@ -380,7 +380,7 @@
 						</ul>
 						<ul class="footer-social-links list-reset">
 							<li>
-								<a href="#">
+								<a href="https://www.facebook.com/Mahali.Online/">
 									<span class="screen-reader-text"
 										>Facebook</span
 									>
