@@ -60,7 +60,7 @@
 								</p>
 								<h3 class="single-price">
 									<span class="after currency-value">
-										<span class="value">499</span>
+										<span class="value">399</span>
 										<span class="currency"
 											>&nbsp;د.م.‏</span
 										>
