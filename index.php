@@ -166,7 +166,6 @@
 								</div>
 							</div>
 						</div>
-
 						<div class="features-wrap">
 							<div class="feature is-revealing">
 								<div class="feature-inner">
