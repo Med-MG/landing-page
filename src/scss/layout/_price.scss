@@ -195,3 +195,16 @@
 
 	// &-actions {}
 }
+
+
+//Caroussel styling
+
+.owl-carousel.owl-drag .owl-item{
+	.item{
+		&__img{
+			width: 100%;
+			padding: 1rem;
+		}
+	}
+
+}
