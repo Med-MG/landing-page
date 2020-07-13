@@ -382,6 +382,7 @@ if (isset($_GET['order'])) {
     echo 'show-content';
 }?>">
 			<div class="popup__right">
+			<?php if (isset($_GET['order'])) { echo "<script> fbq('track', 'Purchase');</script>";}?> 
 				<a href="./" class="popup__close">&times;</a>
 				<div class="success-checkmark">
 					<div class="check-icon">
