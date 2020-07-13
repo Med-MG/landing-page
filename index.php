@@ -454,11 +454,7 @@ if (isset($_GET['order'])) {
 		});
 
 	</script>
-	<script type="text/javascript">
-  		$('#$addToCartButton').click(function() {
-    		fbq('track', 'Purchase', {currency: "USD", value: 40.00});
-  		});
-	</script>
+
 
 </body>
 
