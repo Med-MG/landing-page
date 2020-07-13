@@ -293,7 +293,7 @@
 								<!---->
 							</div>
 							<div class="checkout-actions">
-								<button type="submit" name="submit" class="button button-primary">
+								<button type="submit" name="submit" class="button button-primary" id="addToCartButton">
 									حفض العنوان
 
 								</button>
@@ -452,6 +452,11 @@ if (isset($_GET['order'])) {
 			owl.trigger("prev.owl.carousel", [300]);
 		});
 
+	</script>
+	<script type="text/javascript">
+  		$('#$addToCartButton').click(function() {
+    		fbq('track', 'Purchase', {currency: "USD", value: 40.00});
+  		});
 	</script>
 
 </body>
