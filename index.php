@@ -39,7 +39,6 @@
 </head>
 
 <body class="is-boxed has-animations">
-	<!-- <div class="snowflakes"><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i><i class="flaky"></i></div> -->
 	<div class="body-wrap boxed-container">
 		<header class="site-header">
 			<div class="container">
